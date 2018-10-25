@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license           = { :type => 'Apache-2.0', :file => 'LICENSE' }
 
     s.platform          = :ios
-    s.source            = { :http => 'https://github.com/mitdre/quietmdoemkit-host/blob/master/QuietModemKit.zip?raw=true' }
+    s.source            = { :http => 'https://github.com/mitdre/quietmodemkit-host/blob/master/QuietModemKit.zip?raw=true' }
 
     s.ios.deployment_target = '8.0'
     s.ios.vendored_frameworks = 'QuietModemKit.framework'
